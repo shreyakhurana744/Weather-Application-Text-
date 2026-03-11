@@ -22,6 +22,24 @@ The application allows users to enter a city name and instantly view weather inf
 * **Tkinter** (GUI)
 * **MySQL**
 * **OpenWeatherMap API**
+  ---
+
+  ## 📦 Requirements
+
+- Python 3.x
+- requests
+- mysql-connector-python
+- Tkinter
+  ---
+
+  ## 🔑 API Setup
+
+1. Go to https://openweathermap.org/api  
+2. Create a free account  
+3. Generate an API key  
+4. Replace the API key in the code:
+
+API_KEY = "your_api_key_here"
 
 ---
 
@@ -57,7 +75,7 @@ Weather-Application-Text
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Weather-Application.git
+git clone https://github.com/shreyakhurana744/Weather-Application.git
 ```
 
 2. Install required libraries
