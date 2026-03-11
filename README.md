@@ -34,9 +34,9 @@ Weather-Application-Text
 │   └── weather_result.png
 │
 ├── .gitignore
-├── import tkinter as tk.py
-├── weather_app_with_mysql.py
-└── README.md
+├── README.md
+├── main.py
+└── weather_app_with_mysql.py
 
 ---
 
